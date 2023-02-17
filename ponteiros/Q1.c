@@ -1,4 +1,4 @@
-//QUEESTÃO 01
+//QUESTÃO 1
 int x, y, *p; //Declarou duas variaveis do tipo inteiro e um ponteiro
 y = 0; // você recebeu o valor 0
 p = &y; // o ponteiro recebe o endereço de y
